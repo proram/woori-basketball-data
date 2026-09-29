@@ -1,0 +1,32 @@
+[
+  {
+    "homeTeam": "우리은행",
+    "awayTeam": "삼성생명",
+    "year": 2025,
+    "month": 11,
+    "day": 22,
+    "time": "14:00",
+    "venue": "아산이순신체육관",
+    "broadcast": ""
+  },
+  {
+    "homeTeam": "우리은행",
+    "awayTeam": "신한은행",
+    "year": 2025,
+    "month": 11,
+    "day": 23,
+    "time": "16:00",
+    "venue": "아산이순신체육관",
+    "broadcast": ""
+  },
+  {
+    "homeTeam": "우리은행",
+    "awayTeam": "BNK 썸",
+    "year": 2025,
+    "month": 11,
+    "day": 28,
+    "time": "19:00",
+    "venue": "아산이순신체육관",
+    "broadcast": ""
+  }
+]
